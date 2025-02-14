@@ -2,10 +2,10 @@
 ----------------------
 I love retro games in general!
 ----------------------
-Using GML lol.
+Game maker language, learning C
 ----------------------
 *My discord:*
-@alfombracitarioj (I have no problem talking)
+@alfombracitarioj (I love talking!)
 ----------------------
 *Extra info:*
 He/Him
