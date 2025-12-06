@@ -17,8 +17,6 @@ from rendering engines to custom binary formats.
 ### Philosophy?
 > Fewer dependencies. More control. Pure optimization.
 
-Do I do that always? If I have unlimited time, YES.
-
 ---
 
 btw, you can find me on youtube as Alfombra de madera (@alfombracitario)
