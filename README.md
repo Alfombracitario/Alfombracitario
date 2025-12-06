@@ -17,7 +17,7 @@ from rendering engines to custom binary formats.
 ### Philosophy?
 > Fewer dependencies. More control. Pure optimization.
 
-Do I do that always? If I have infinite time, YES.
+Do I do that always? If I have unlimited time, YES.
 
 ---
 
