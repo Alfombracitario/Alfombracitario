@@ -6,7 +6,7 @@ from rendering engines to custom binary formats.
 
 ---
 
-### What do I do?
+### What I do?
 - I make Games, tools and homebrew stuff!  
 (I also make the art and the music of my projects)
 - I aim for **maximum efficiency** in memory and performance, even on limited hardware.
@@ -25,4 +25,4 @@ in discord as @alfombracitarioj
 
 in SMWcentral as Alfombra de Madera
 
-in itch.io (I don't upload stuff there lol)
+in itch.io too as Alfombracitario
